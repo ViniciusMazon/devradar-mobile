@@ -2,8 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 2308,
-  "expoServerNgrokUrl": "https://sw-9ht.anonymous.mobile.exp.direct",
-  "packagerNgrokUrl": "https://packager.sw-9ht.anonymous.mobile.exp.direct",
-  "ngrokPid": 1760
+  "packagerPid": 3000,
+  "expoServerNgrokUrl": "https://sw-9ht.anonymous.devradar-mobile.exp.direct",
+  "packagerNgrokUrl": "https://packager.sw-9ht.anonymous.devradar-mobile.exp.direct",
+  "ngrokPid": 2676
 }

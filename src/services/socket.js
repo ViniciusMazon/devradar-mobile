@@ -1,6 +1,7 @@
 import socketio from 'socket.io-client';
+import { BASE_URL } from 'react-native-dotenv';
 
-const socket = socketio('http://192.168.1.66:3333', {
+const socket = socketio(BASE_URL, {
     autoConnect: false,
 });
 
