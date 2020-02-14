@@ -24,19 +24,19 @@ O objetivo é unir desenvolvedores geograficamente próximos, filtrando os resul
 * Alteração do icon
 
 ### Utilização 🔌
-1. Suba a API do DevRadar, seguindo o passo a passo em [DevRadar-API](https://github.com/ViniciusMazon/DevRadar-API)
+1. Suba a API do DevRadar, seguindo o passo a passo em [DevRadar-API](https://github.com/ViniciusMazon/devradar-api)
 2. Clone este repositório
 3. Instale as dependências rodando `yarn install` ou `npm install`
 4. Rode o projeto executando `yarn start` ou `npm start`
 5. Crie um arquivo .env e configure as variáveis de ambiente seguindo o exemplo do arquivo .env.example.
 **Atenção: o ip que você deve utilizar é o que aparece em cima do QRCode do Expo, mantenha a porta caso não tenha alterado a API**
 1. Instale o aplicativo do Expo em seu celular [Expo Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) e digitalize o QR Code.
-2. Para utilizar a interface Web do DevRadar siga o passo a passo do [DevRadar-Web](https://github.com/ViniciusMazon/DevRadar-Web)
+2. Para utilizar a interface Web do DevRadar siga o passo a passo do [DevRadar-Web](https://github.com/ViniciusMazon/devradar-web)
 
 ### Todos repositórios 📦
-* [API](https://github.com/ViniciusMazon/DevRadar-API)
-* [Web](https://github.com/ViniciusMazon/DevRadar-Web)
-* [Mobile](https://github.com/ViniciusMazon/DevRadar-Mobile)
+* [API](https://github.com/ViniciusMazon/devradar-api)
+* [Web](https://github.com/ViniciusMazon/devradar-web)
+* [Mobile](https://github.com/ViniciusMazon/devradar-mobile)
   
 ### Licença 📄
 Esse projeto está sob a licença **MIT**.
