@@ -29,7 +29,7 @@ O objetivo é unir desenvolvedores geograficamente próximos, filtrando os resul
 3. Instale as dependências rodando `yarn install` ou `npm install`
 4. Rode o projeto executando `yarn start` ou `npm start`
 5. Crie um arquivo .env e configure as variáveis de ambiente seguindo o exemplo do arquivo .env.example.
-** Atenção: o ip que você deve utilizar é o que aparece em cima do QRCode do Expo, mantenha a porta caso não tenha alterado a API **
+**Atenção: o ip que você deve utilizar é o que aparece em cima do QRCode do Expo, mantenha a porta caso não tenha alterado a API**
 1. Instale o aplicativo do Expo em seu celular [Expo Google Play](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pt_BR) e digitalize o QR Code.
 2. Para utilizar a interface Web do DevRadar siga o passo a passo do [DevRadar-Web](https://github.com/ViniciusMazon/DevRadar-Web)
 
