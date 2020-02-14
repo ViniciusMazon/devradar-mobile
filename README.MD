@@ -1,5 +1,5 @@
 <div  align="center">
-<img  src="static/logo.png"  alt="DevRadar logo"  height="160">
+<img  src="static/logo.png"  alt="DevRadar logo"  height="100">
 <br>
 <br>
 <p><i>🚀 Projeto feito durante a Semana Omnistack 10 - <a  href="https://github.com/Rocketseat">Rocketseat</a></i></p>
@@ -11,6 +11,8 @@ O objetivo é unir desenvolvedores geograficamente próximos, filtrando os resul
 1. O dev cadastra o GitHub e as tecnologias que domina na página web do DevRadar.
 2. Você insere as tecnologias que possui interesse no App e todos os devs cadastrados que estejam a 10km de você e que possuem uma ou mais tecnologias que você procura aparecerão no mapa.
 3. Você pode clicar na foto do Dev e analisar o GitHub dele dentro do App. Ah, caso algum dev se cadastre enquanto você estiver utilizando o App, ele aparecerá no seu mapa sem que você precise atualizar a pesquisa.
+
+![Screen](static/mobile.png)
 
 ### Tecnologias utilizadas 💙
 * ReactNative
